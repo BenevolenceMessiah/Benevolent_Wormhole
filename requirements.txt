@@ -1,0 +1,6 @@
+cryptography==3.4.7
+pyyaml==5.4.1
+tqdm==4.60.0
+miniupnpc==2.1
+requests==2.25.1
+psutil==5.8.0

@@ -1,0 +1,19 @@
+# requirements_documented.txt
+
+# cryptography: For encryption and decryption of messages and files
+cryptography==3.4.7
+
+# pyyaml: For handling YAML files (offline messages storage)
+pyyaml==5.4.1
+
+# tqdm: For displaying progress bars during file transfers
+tqdm==4.60.0
+
+# miniupnpc: For NAT traversal to establish peer-to-peer connections
+miniupnpc==2.1
+
+# requests: For making HTTP requests (if needed for external APIs or NAT traversal)
+requests==2.25.1
+
+# psutil: For advanced process and system monitoring (used in stop scripts)
+psutil==5.8.0

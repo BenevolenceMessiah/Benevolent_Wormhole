@@ -1,0 +1,13 @@
+# .gitignore
+
+# Ignore virtual environment
+.venv/
+
+# Ignore chat folders and files
+Chats/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore any logs
+*.log
